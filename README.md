@@ -21,7 +21,7 @@ A simple Windows-based downloader application built with **C++** and **Qt**, des
 
 ## Screenshot
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot.png)
 
 ---
 
