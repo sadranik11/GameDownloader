@@ -17,9 +17,6 @@ A simple C++ desktop application to download games from the internet with an int
 - **QNetworkAccessManager**  
 - **QFile**, **QUrl**, **QProgressBar**, **QLabel**
 
-## Screenshots
-
-![Screenshot](screenshot.png)
 
 ## How to Build
 
