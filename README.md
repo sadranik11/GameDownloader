@@ -58,7 +58,7 @@ This project is shared under the **MIT License**, since it uses the free version
 - **Pause/Resume** uses `abort()` to stop download and resumes with `Range` headers.
 - **Download integrity** is ensured via file size and existence checks.
 - No threading is used; all operations are based on Qt’s asynchronous networking.
-
+- This application was built entirely by myself, and whenever needed, I used AI tools to help improve the development process and speed things up.
 ---
 
 ## Contact
